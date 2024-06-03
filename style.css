@@ -51,7 +51,11 @@ h2 {
     text-align: center;
 }
 
-.resume{
+.resume {
+    color: blue;
+}
+
+#community_work {
     color: blue;
 }
 
